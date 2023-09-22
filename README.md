@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+profile!;Software+Engineer;CS+and+BBA;@+Uwaterloo+and+Wilfrid+Laurier+University&center=true&width=460&color=blue&height=50" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+profile!;Software+Engineer;CS+and+BBA+@+Uwaterloo+and+Wilfrid+Laurier+University&center=true&width=460&color=blue&height=50" alt="Typing SVG" />
 </p>
 
 
