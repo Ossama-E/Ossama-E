@@ -11,6 +11,6 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ossamaelhelali/" height="30" width="40" />
 </a>
 <a href="http://www.ossamae.me/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="ossamae.me" height="30" width="40" />
+    <img align="center" src="https://iconarchive.com/download/i108283/google/noto-emoji-animals-nature-nature/globe-showing-Americas.ico" alt="ossamae.me" height="30" width="40" />
 </a>
 </p>
