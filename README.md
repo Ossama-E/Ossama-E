@@ -6,8 +6,9 @@
 </h3>
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+profile!;Software+Engineer+Intern+@+HubSpot;Computer+Engineering+Co-op+Student;@+McMaster+University&center=true&width=460&color=blue&height=50">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+profile!;Software+Engineer;CS+&+BBA;@+Uwaterloo+&+Wilfrid+Laurier+University&center=true&width=460&color=blue&height=50" alt="Typing SVG" />
 </p>
+
 
 
 <div align="center">
