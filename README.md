@@ -10,7 +10,7 @@
 <a href="https://linkedin.com/in/ossamaelhelali/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ossamaelhelali/" height="30" width="40" />
 </a>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My Personal Website</h3>
 <p align="left">
 <a href="http://www.ossamae.me/" target="_blank">
     <img align="center" src="./link.svg" alt="ossamae.me" height="30" width="40" />
