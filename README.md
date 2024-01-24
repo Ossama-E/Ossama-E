@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ossama Elhelali</h1>
 <h3 align="center">A double-degree student at UW and WLU</h3>
 
-- 🔭 I’m currently working on a [check-in platform](https://ccg-check-in.netlify.app/)
+- 🔭 I’m currently working on a [check-in platform]
 
 - 👨‍💻 All of my projects are available at **http://www.ossamae.me/**
 
