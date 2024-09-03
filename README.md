@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ossama Elhelali</h1>
 <h3 align="center">A double-degree student at UW and WLU</h3>
 
-- 🔭 I’m currently working on a [check-in platform]
-
-- 👨‍💻 All of my projects are available at **http://www.ossamae.me/**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ossamaelhelali/" target="_blank">
