@@ -8,7 +8,7 @@
 </a>
 <h3 align="left">My Personal Website</h3>
 <p align="left">
-<a href="http://www.ossamae.me/" target="_blank">
+<a href="http://www.ossama.tech/" target="_blank">
     <img align="center" src="./link.svg" alt="ossamae.me" height="30" width="40" />
 </a>
 </p>
